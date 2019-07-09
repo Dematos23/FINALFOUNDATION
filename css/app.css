@@ -1,0 +1,67 @@
+body{
+  background-image: url("https://i0.wp.com/www.justchasingsunsets.com/wp-content/uploads/2019/04/cusco-17.jpg?fit=4032%2C3024&ssl=1");
+  background-size: 100vw;
+  background-position: center;
+  background-attachment: fixed;
+  background-repeat:repeat-y;
+}
+.container{
+  background-color: rgba(52, 140, 222, 0.8)
+}
+h2{
+  font-style: oblique;
+  font-weight: bold;
+  margin-bottom: 5px;
+  color: white;
+}
+h4{
+  font-style: oblique;
+  color: white;
+}
+h5{
+  border-bottom: 1px rgba(0, 0, 0, 1) solid;
+  margin-top: 2rem;
+  font-weight: bold;
+}
+.titulo-post{
+  font-style: normal !important;
+  font-weight: bold;
+  margin-bottom: 0 !important;
+  color: white;
+}
+nav ul li{
+  border: 1px rgba(0, 0, 0, 1) solid;
+  border-radius: 15px;
+  margin: 5px 0;
+  background-color: rgba(238, 238, 238, 0.1);
+  font-weight: bold;
+}
+.text{
+  color: white;
+}
+p{
+  color: white;
+}
+.vertical li{
+  border-bottom: 1px rgba(0, 0, 0, 1) solid;
+}
+.img-post{
+  border: 15px rgba(22, 55, 69, 1) solid;
+  margin-bottom: 1rem;
+}
+.Favoritos{
+  background-color: blak;
+}
+.column-favoritos{
+  background-color: yellw;
+  padding: ;
+  margin-bottom: 1.5rem;
+}
+.img-favoritos{
+ width: 100%;
+ border: 5px rgba(22, 55, 69, 1) solid;
+ background-color: rd;
+}
+.Historial{
+  margin-bottom: 3rem;
+}
